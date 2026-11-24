@@ -1,6 +1,6 @@
 # Catálogo de Botones CSS
 
-Página web que reúne **99 botones** diseñados con CSS, organizados en **10 secciones** que avanzan de lo básico a lo avanzado. El objetivo es practicar y documentar las técnicas de estilo más usadas en botones: colores, bordes, tipografía, degradados, estados, transformaciones, iconos, pseudoelementos, animaciones y diseños de tendencia.
+Página web que reúne **100 botones** diseñados con CSS, organizados en **10 secciones** que avanzan de lo básico a lo avanzado. El objetivo es practicar y documentar las técnicas de estilo más usadas en botones: colores, bordes, tipografía, degradados, estados, transformaciones, iconos, pseudoelementos, animaciones y diseños de tendencia.
 
 ---
 
@@ -224,8 +224,8 @@ Estilos de tendencia que combinan varias de las técnicas anteriores. Tres de el
 | `btn-double-text` | Doble texto (texto inicial y texto revelado) | — |
 | `btn-cinematic` | Imagen cinematográfica | — |
 | `btn-premium` | Acción premium con icono `✦` | — |
+| `btn-personalizado` | combinación de clases que me llamaron la atención | — |
 
-> Esta sección tiene **9 botones** en lugar de 10. Con las demás suman 99 en total.
 
 ## Técnicas de CSS practicadas
 
